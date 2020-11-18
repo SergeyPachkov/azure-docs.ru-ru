@@ -20,7 +20,7 @@ ms.locfileid: "91287344"
 >[!IMPORTANT]
 >Это содержимое применимо к Виртуальному рабочему столу Windows с объектами Azure Resource Manager для Виртуального рабочего стола Windows. Если вы используете Виртуальный рабочий стол Windows (классический) без объектов Azure Resource Manager, ознакомьтесь с [этой статьей](./virtual-desktop-fall-2019/connect-windows-7-10-2019.md).
 
-Вы можете получить доступ к ресурсам виртуальных рабочих столов Windows на устройствах с Windows 10, Windows 10 IoT Корпоративная и Windows 7 с помощью настольного клиента Windows. Клиент не поддерживает окно 8 или Windows 8.1.
+Вы можете получить доступ к ресурсам виртуальных рабочих столов Windows на устройствах с Windows 10, Windows 10 IoT Корпоративная и Windows 7 с помощью настольного клиента Windows. Клиент не поддерживает Windows 8 или Windows 8.1.
 
 ## <a name="install-the-windows-desktop-client"></a>Установка настольного клиента Windows
 
